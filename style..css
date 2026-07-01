@@ -39,3 +39,9 @@ footer {
   padding: 15px 25px; 
   color: #fff; 
 } 
+.cabecalho-link:focus { color: #ffe8d6; } 
+
+
+.cartao:focus-within .cartao-interno { transform: rotateY(180deg); } 
+
+.cabecalho-link:visited { color: #ffd1a6; } 
